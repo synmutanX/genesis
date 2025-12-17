@@ -1,0 +1,10 @@
+silahkan download file-file ini di link drive yang telah dibagikan
+
+ASA-24v1-0_A1_ClusterFile.egt
+ASA-24v1-0_A1_b150_rsids.txt
+ASA-24v1-0_E2.bpm
+ASA-24v1-0_E2.csv
+asa2rsid.map
+chr.map
+human_v38.fasta
+human_v38.fasta.fai
