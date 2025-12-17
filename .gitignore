@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Outputs
+gtc_genoplan_test/
+out*/
+*.vcf
+*.vcf.gz
+*.csi
+*.tsv
+*.bed
+*.bim
+*.fam
+*.log
+
+# Large / sensitive inputs (don’t commit)
+idat*/
+*.idat
+*.fasta
+*.fa
+*.fna
+*.gz
+pop/
+asa/
+snp_*/
