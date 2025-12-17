@@ -24,3 +24,9 @@ idat*/
 pop/
 asa/
 snp_*/
+
+*.egt
+ASA*
+*.map
+chr.map
+human_v38.fasta.fai
